@@ -2,7 +2,7 @@
 
 ## Scope 
 
-Returning to a hospital within a short period of time after being charged is costly to the healthcare system(Total cost in 2011 was $41.3 billion)and it affects the most people who poor and/or are 65 years or older. Avoidable reasons for hospital readmission include:
+Returning to a hospital within a short period of time after being charged is costly to the healthcare system(Total cost in 2011 was $41.3 billion)and it affects the most poor and/or are 65 years or older people. Avoidable reasons for hospital readmission include:
 
 - Confusion about the prescribed medication and dosage.
 - Miscommunication by hospital staff of important information such as test results.
