@@ -2,13 +2,13 @@
 
 ## Scope 
 
-Returning to a hospital within a short period of time after being charged is costly to the healthcare system(Total cost in 2011 was $41.3 billion). Avoidable reasons for hospital readmission include:
+Returning to a hospital within a short period of time after being charged is costly to the healthcare system(Total cost in 2011 was $41.3 billion)and it affects the most people who poor and/or are 65 years or older. Avoidable reasons for hospital readmission include:
 
 - Confusion about the prescribed medication and dosage.
 - Miscommunication by hospital staff of important information such as test results.
 - Improper follow-up care after release. 
 
-Hospital readmissions are often used to measure quality of care in healthcare system and the affordable care act established the Medicare Hospital Readmissions Reduction program to impose financial with excessive readmissions to lower the readmission rates.
+Hospital readmissions are often used to measure quality of care in the healthcare system and the affordable care act established the Medicare Hospital Readmissions Reduction program to impose financial penalties on hospitals with excessive readmissions to lower the readmission rates.
 My goal in this project is to predict whether a patient discharged from hospital will return within 30 days as an emergency admit.
 
 
